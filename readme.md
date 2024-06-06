@@ -7,3 +7,5 @@
 *Comando git push e repositórios remotos
 
 *Comando git pull 
+
+*Comando git fetch
