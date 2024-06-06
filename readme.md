@@ -3,3 +3,5 @@
 # Salvando informações em arquivos e renomenado. 
 
 # Terceiro exemplo 
+
+*Comando git push
