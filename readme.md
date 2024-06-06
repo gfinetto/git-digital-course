@@ -5,3 +5,5 @@
 # Terceiro exemplo 
 
 *Comando git push e repositórios remotos
+
+*Comando git pull 
