@@ -4,4 +4,4 @@
 
 # Terceiro exemplo 
 
-*Comando git push
+*Comando git push e repositórios remotos
